@@ -1,0 +1,8 @@
+title: Тест
+href: index.md
+items:
+  - name: Ознакомление
+    href: index.md
+  - name: Вторая страница
+    href: second-page.md
+base: ru

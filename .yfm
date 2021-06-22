@@ -1,0 +1,10 @@
+breaks: false
+langs: ['en', 'ru']
+allowHTML: true
+apply-presets: true
+singlePage: true
+
+docs-viewer:
+  langs: ['en', 'ru']
+  project-name: yfm-test-doc
+
