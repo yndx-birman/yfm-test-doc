@@ -5,6 +5,7 @@ apply-presets: true
 singlePage: true
 
 docs-viewer:
-  langs: ['en', 'ru']
   project-name: yfm-test-doc
+  logo-title: YFM-TEST
+  github-url-prefix: https://github.com/yndx-birman/yfm-test-doc/tree/main
 
