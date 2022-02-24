@@ -4,5 +4,5 @@ items:
   - name: Get started
     href: index.md
   - name: Second page
-    href: second-page.md
+    href: third-page.md
 base: en
