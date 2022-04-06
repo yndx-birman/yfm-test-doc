@@ -6,6 +6,8 @@ singlePage: true
 
 docs-viewer:
   project-name: yfm-test-doc
-  logo-title: Test
   github-url-prefix: https://github.com/yndx-birman/yfm-test-doc/tree/main
+  
+  logo-options:
+    title: Test
 
